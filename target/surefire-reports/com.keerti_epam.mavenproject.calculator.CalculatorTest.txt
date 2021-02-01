@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.keerti_epam.mavenproject.calculator.CalculatorTest
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.001 s - in com.keerti_epam.mavenproject.calculator.CalculatorTest
